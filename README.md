@@ -11,4 +11,4 @@ I had worked as an artificial intelligence intern for finding skin lesion classi
 |Mode|Onsite|
 |Duration|1 month(April 10 to May 10)|
 
-
+# Project completed during the Internship
